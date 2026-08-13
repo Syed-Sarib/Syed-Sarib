@@ -27,8 +27,9 @@
 ---
 
 ## 🚀 Projects
-
-- **Smart Scheduler** – MERN + Python CSP solver for automated timetable generation  
+- **HumChat** – Real-time chat web app with Socket.io, Clerk auth, and image sharing. *(React, Node.js, MongoDB, Socket.io)* — [Live Demo](https://humchat.up.railway.app/)
+- **FilmFuse** – Movie discovery platform with real-time search, trending analytics, and dynamic browsing. *(React, TMDB API, Appwrite)* — [Live Demo](https://filmfuse.netlify.app/)
+- **Smart Scheduler** – MERN + Python CSP solver for automated timetable generation— [Live Demo](https://smart-scheduler.pages.dev/)  
 - **Chat Application** – Flutter + Firebase + Cloudinary real-time messaging  
 - **Ecommerce Website** – HTML, CSS, JavaScript frontend  
 - **Car Dealership System** – C with encrypted file database  
@@ -37,14 +38,5 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Sarib&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Sarib&layout=compact&theme=radical)
 
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-sarib)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saribshahsyed@gmail.com)
